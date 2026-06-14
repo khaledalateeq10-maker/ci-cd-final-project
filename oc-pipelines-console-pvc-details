@@ -1,0 +1,7 @@
+NAME             STATUS        VOLUME                                     CAPACITY   ACCESS MODES   STORAGECLASS             VOLUMEATTRIBUTESCLASS   AGE
+pvc-02c42a9d6a   Bound         pvc-9bc342e5-2dcd-4406-9d5c-74326975de68   1Gi        RWO            skills-network-learner   <unset>                 5h40m
+pvc-4500481b38   Terminating   pvc-4208d34c-3cb9-481e-838d-abbdc6031754   1Gi        RWO            skills-network-learner   <unset>                 5h24m
+pvc-5181535b60   Terminating   pvc-6a4fc0d5-03e6-45c2-b283-996154c36803   1Gi        RWO            skills-network-learner   <unset>                 5h51m
+pvc-5fd8111974   Bound         pvc-03e0f2fc-d17f-4c7c-a79e-ac619fe0b586   1Gi        RWO            skills-network-learner   <unset>                 5h46m
+pvc-94a30c0c7b   Bound         pvc-481b7d18-d310-4cc7-94f5-401722002e4d   1Gi        RWO            skills-network-learner   <unset>                 5h53m
+pvc-98be90087d   Bound         pvc-707ee38d-66e1-429d-ad4e-675589a149e4   1Gi        RWO            skills-network-learner   <unset>                 5h33m
